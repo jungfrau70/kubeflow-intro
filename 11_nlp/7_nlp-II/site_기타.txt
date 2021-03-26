@@ -1,0 +1,3 @@
+https://github.com/datanada/Awesome-Korean-NLP
+https://github.com/songys/AwesomeKorean_Data
+https://github.com/topics/korean-nlp?o=desc&s=updated
